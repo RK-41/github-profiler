@@ -2,10 +2,14 @@ export interface GitHubUser {
 	login: string;
 	name: string | null;
 	avatar_url: string;
+	html_url: string;
 	public_repos: number;
 	followers: number;
 	following: number;
-	html_url: string;
+	bio: string | null;
+	location: string | null;
+	company: string | null;
+	repositories: GitHubRepo[];
 }
 
 export interface GitHubRepo {
