@@ -145,7 +145,7 @@ export function CommitsHeatmap({ username }: CommitsHeatmapProps) {
                 <SelectValue placeholder="Select year" />
               </SelectTrigger>
               <SelectContent>
-                {availableYears.map((year) => (
+                {availableYears.reverse().map((year) => (
                   <SelectItem
                     key={year}
                     value={year.toString()}
