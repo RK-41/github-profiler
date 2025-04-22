@@ -34,8 +34,8 @@ Before you begin, ensure you have:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/github-profile-analyzer.git
-   cd github-profile-analyzer
+   git clone https://github.com/your-username/github-profiler.git
+   cd github-profiler
    ```
 
 2. Install dependencies:
