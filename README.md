@@ -2,8 +2,7 @@
 
 A modern web application that provides detailed insights into GitHub user profiles. View repositories, contribution history, and user statistics in a clean, responsive interface.
 
-![GitHub Profile Analyzer Screenshot]
-_Add a screenshot of your application here_
+![image](https://github.com/user-attachments/assets/b9a135b0-acf1-4436-ac5c-542349085249)
 
 ## Features
 
